@@ -15,7 +15,7 @@
 <h1 align="center">Minha Atividade</h1>
 
 <div align="center">
-  <a href="https://stars.xyz">
+  <a href="https://stars02.xyz">
     <img src="https://lanyard.cnrad.dev/api/1068374487550152754">
   </a>
 </div>
