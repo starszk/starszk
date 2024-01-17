@@ -14,7 +14,7 @@
     <img src="https://lanyard.cnrad.dev/api/1068374487550152754?bg=0d1117">
   </a>
 </p>
-
+# Estátisticas
 <p align="center">
 <img width="395em" src="https://github-readme-stats.vercel.app/api?username=stars02&show_icons=true&theme=vision-friendly-dark" alt="Stars stats"/>
 <img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stars02&layout=compact&theme=vision-friendly-dark" alt="Stars02' most languages"/>
