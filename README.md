@@ -9,11 +9,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
-<center>
+<p align="center">
   <a href="https://discord.com/users/904891162362519562">
     <img src="https://lanyard.cnrad.dev/api/1068374487550152754?bg=0d1117">
   </a>
-</center>
+</p>
 
 * 👨‍💻 Desenvolvedor Front-end
 * 🌱 Estudando TypeScript
