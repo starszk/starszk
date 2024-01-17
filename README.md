@@ -9,6 +9,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
+[!https://lanyard.cnrad.dev/api/1068374487550152754?bg=0d1117]
+
 * 👨‍💻 Desenvolvedor Front-end
 * 🌱 Estudando TypeScript
-* 🤖 Faço bots para Discord 
