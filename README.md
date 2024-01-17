@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou o Cauê, mais conhecido como Stars :)</h1>
 <p align="center">
-  <img alt="Hits" src="https://hits-app.vercel.app/hits?url=https://github.com/stars02=views&bgRight=0d1117">
+  <img alt="Views" src="https://hits-app.vercel.app/hits?url=https://github.com/stars02=views&bgRight=0d1117">
 </p>
 
 <p align="center">
