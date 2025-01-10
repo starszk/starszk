@@ -17,7 +17,7 @@
 
 <h1 align="center">Estátisticas</h1>
 <p align="center">
-<img width="395em" src="https://github-readme-stats.vercel.app/api?username=stars02&show_icons=true&theme=vision-friendly-dark" alt="Stars stats"/>
-<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stars02&layout=compact&theme=vision-friendly-dark" alt="Stars02' most languages"/>
+<img width="395em" src="https://github-readme-stats.vercel.app/api?username=starszk&show_icons=true&theme=vision-friendly-dark" alt="Stars stats"/>
+<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starszk&layout=compact&theme=vision-friendly-dark" alt="Starszk' most languages"/>
 </p>
 </div>
